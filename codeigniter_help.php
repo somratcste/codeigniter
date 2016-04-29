@@ -15,5 +15,3 @@ Connect Model & Object
 
 $this->load->Model('login_model');
 $this->login_model->save_user_info($data);
-
-=====================================
